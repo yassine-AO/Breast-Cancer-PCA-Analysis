@@ -24,6 +24,3 @@ You can read the notebook directly here on GitHub by clicking on it below, or vi
 
 - **View on Kaggle**: [Breast Cancer PCA Analysis](https://www.kaggle.com/code/yassineaouni/dimensionality-reduction-in-medical-diagnostics)  
   (On Kaggle, you can execute the notebook in a free cloud environment.)
-
-## Getting Started
-1. **Clone the Repository**:
