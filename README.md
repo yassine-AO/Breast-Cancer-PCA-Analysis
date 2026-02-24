@@ -22,7 +22,7 @@ You can read the notebook directly here on GitHub by clicking on it below, or vi
 - **View on GitHub**: [Dimensionality_Reduction_in_Medical_Diagnostics.ipynb](./Dimensionality_Reduction_in_Medical_Diagnostics.ipynb)  
   (GitHub renders notebooks statically, so plots and outputs are visible without running code.)
 
-- **View on Kaggle**: [Dimensionality Reduction in Medical Diagnostics](https://www.kaggle.com/code/yassineaouni/dimensionality-reduction-in-medical-diagnostics)  
+- **View on Kaggle**: [Breast Cancer PCA Analysis](https://www.kaggle.com/code/yassineaouni/dimensionality-reduction-in-medical-diagnostics)  
   (On Kaggle, you can execute the notebook in a free cloud environment.)
 
 ## Getting Started
