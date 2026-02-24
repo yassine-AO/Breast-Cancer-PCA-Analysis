@@ -1,4 +1,5 @@
 # Dimensionality Reduction in Medical Diagnostics
+## Breast Cancer PCA Analysis
 
 ![Breast Cancer Analysis](https://img.shields.io/badge/Language-Python-blue) ![License](https://img.shields.io/badge/License-MIT-green) ![Dataset](https://img.shields.io/badge/Dataset-Breast%20Cancer%20Wisconsin-orange)
 
@@ -21,8 +22,8 @@ You can read the notebook directly here on GitHub by clicking on it below, or vi
 - **View on GitHub**: [Dimensionality_Reduction_in_Medical_Diagnostics.ipynb](./Dimensionality_Reduction_in_Medical_Diagnostics.ipynb)  
   (GitHub renders notebooks statically, so plots and outputs are visible without running code.)
 
-- **View on Kaggle**: Visit my Kaggle profile at [kaggle.com/<your-kaggle-username>](https://www.kaggle.com/<your-kaggle-username>) and look for the notebook titled "Dimensionality Reduction in Medical Diagnostics".  
-  (Replace `<your-kaggle-username>` with your actual username, e.g., [kaggle.com/yassineaouni](https://www.kaggle.com/yassineaouni). On Kaggle, you can execute the notebook in a free cloud environment.)
+- **View on Kaggle**: [Dimensionality Reduction in Medical Diagnostics](https://www.kaggle.com/code/yassineaouni/dimensionality-reduction-in-medical-diagnostics)  
+  (On Kaggle, you can execute the notebook in a free cloud environment.)
 
 ## Getting Started
 1. **Clone the Repository**:
