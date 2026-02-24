@@ -1,1 +1,28 @@
-# Dimensionality-Reduction-in-Medical-Diagnostics
+# Dimensionality Reduction in Medical Diagnostics
+
+![Breast Cancer Analysis](https://img.shields.io/badge/Language-Python-blue) ![License](https://img.shields.io/badge/License-MIT-green) ![Dataset](https://img.shields.io/badge/Dataset-Breast%20Cancer%20Wisconsin-orange)
+
+## Overview
+This repository contains a Jupyter Notebook that performs a PCA-based analysis on the Breast Cancer Wisconsin (Diagnostic) Dataset. The notebook explores feature redundancy, intrinsic dimensionality, clustering, classification performance, and more to determine if high-dimensional tumor data can be compressed while preserving diagnostic accuracy.
+
+Author: **Yassine Aouni**  
+Dataset Source: [UCI ML Breast Cancer Wisconsin (Diagnostic) Dataset](https://www.kaggle.com/datasets/uciml/breast-cancer-wisconsin-data) (downloaded via Kaggle).  
+
+Key topics covered:
+- Exploratory Data Analysis (EDA)
+- Principal Component Analysis (PCA)
+- Reconstruction Error and Clustering
+- Classification Impact (Logistic Regression, SVM)
+- Key Findings and Practical Implications
+
+## How to View the Notebook
+You can read the notebook directly here on GitHub by clicking on it below, or visit my Kaggle account for an interactive version (where you can run the code, fork it, or see outputs in a notebook environment).
+
+- **View on GitHub**: [Dimensionality_Reduction_in_Medical_Diagnostics.ipynb](./Dimensionality_Reduction_in_Medical_Diagnostics.ipynb)  
+  (GitHub renders notebooks statically, so plots and outputs are visible without running code.)
+
+- **View on Kaggle**: Visit my Kaggle profile at [kaggle.com/<your-kaggle-username>](https://www.kaggle.com/<your-kaggle-username>) and look for the notebook titled "Dimensionality Reduction in Medical Diagnostics".  
+  (Replace `<your-kaggle-username>` with your actual username, e.g., [kaggle.com/yassineaouni](https://www.kaggle.com/yassineaouni). On Kaggle, you can execute the notebook in a free cloud environment.)
+
+## Getting Started
+1. **Clone the Repository**:
