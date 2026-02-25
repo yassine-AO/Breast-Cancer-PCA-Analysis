@@ -1,7 +1,7 @@
 # Dimensionality Reduction in Medical Diagnostics
 ## Breast Cancer PCA Analysis
 
-![Breast Cancer Analysis](https://img.shields.io/badge/Language-Python-blue) ![License](https://img.shields.io/badge/License-MIT-green) ![Dataset](https://img.shields.io/badge/Dataset-Breast%20Cancer%20Wisconsin-orange)
+![Language](https://img.shields.io/badge/Language-Python-blue) ![License](https://img.shields.io/badge/License-MIT-green) ![Dataset](https://img.shields.io/badge/Dataset-Breast%20Cancer%20Wisconsin-orange) [![Kaggle Notebook](https://img.shields.io/badge/Kaggle-Notebook-20BEFF)](https://www.kaggle.com/code/yassineaouni/dimensionality-reduction-in-medical-diagnostics)
 
 ## Overview
 This repository contains a Jupyter Notebook that performs a PCA-based analysis on the Breast Cancer Wisconsin (Diagnostic) Dataset. The notebook explores feature redundancy, intrinsic dimensionality, clustering, classification performance, and more to determine if high-dimensional tumor data can be compressed while preserving diagnostic accuracy.
